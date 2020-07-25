@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## G. Sean Escola, M.D., Ph.D.
 
 You can use the [editor on GitHub](https://github.com/seanslice/seanslice.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
