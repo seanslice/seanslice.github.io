@@ -1,4 +1,4 @@
-### G. Sean Escola, M.D., Ph.D.
+# G. Sean Escola, M.D., Ph.D.
 
 I am an assistant professor of psychiatry in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu). I also am co-founder and chief neuroscientist of [System1 Biosciences](https://www.system1.bio).
 
