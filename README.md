@@ -1,40 +1,13 @@
-## G. Sean Escola, M.D., Ph.D.
+### G. Sean Escola, M.D., Ph.D.
 
-You can use the [editor on GitHub](https://github.com/seanslice/seanslice.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am an assistant professor of psychiatry in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu). I also am co-founder and chief neuroscientist of [System1 Biosciences](https://www.system1.bio).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Papers
 
-### Papers
+1. [James Murray and Sean Escola, "Remembrance of things practiced with fast and slow learning in cortical and subcortical pathways", Nature Communication, 2020](https://doi.org/10.1038/s41467-020-19788-5)
+2. [Kevan Shah, ..., Sean Escola, "Optimization and scaling of patient-derived brain organoids uncovers deep phenotypes of disease", bioRxiv, 2020](https://doi.org/10.1101/2020.08.26.251611)
+3. [Laureline Logiaco, Larry Abbott, and Sean Escola, "A model of flexible motor sequencing through thalamic control of cortical dynamics", bioRxiv, 2019](https://doi.org/10.1101/2019.12.17.880153)
+4. [Brian DePasquale, Christopher Cueva, Kanaka Rajan, Sean Escola, Larry Abbott, "full-FORCE: A target-based method for training recurrent networks", PLoS ONE, 2018](https://doi.org/10.1371/journal.pone.0191527)
+5. [James Murray and Sean Escola, "Learning multiple variable-speed sequences in striatum via cortical tutoring", eLife, 2017](https://doi.org/10.7554/eLife.26084)
 
-James M. Murray and G. Sean Escola, "Remembrance of things practiced with fast and slow learning in cortical and subcortical pathways", Nature Communication, 2020, https://doi.org/10.1038/s41467-020-19788-5
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-    def foo(bar):
-        return bar
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seanslice/seanslice.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[//]: # (This may be the most platform independent comment ![Image](src))
