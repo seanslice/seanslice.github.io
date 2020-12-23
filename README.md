@@ -10,4 +10,4 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 4. [Brian DePasquale, Christopher Cueva, Kanaka Rajan, Sean Escola, Larry Abbott, "full-FORCE: A target-based method for training recurrent networks", PLoS ONE, 2018](https://doi.org/10.1371/journal.pone.0191527)
 5. [James Murray and Sean Escola, "Learning multiple variable-speed sequences in striatum via cortical tutoring", eLife, 2017](https://doi.org/10.7554/eLife.26084)
 
-[//]: # (This may be the most platform independent comment ![Image](src))
+[//]: # " ![Image](src) "
