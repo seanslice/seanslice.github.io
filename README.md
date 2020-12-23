@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/seanslice/seanslice.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Papers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+James M. Murray and G. Sean Escola, "Remembrance of things practiced with fast and slow learning in cortical and subcortical pathways", Nature Communication, 2020, https://doi.org/10.1038/s41467-020-19788-5
 
 ```markdown
 Syntax highlighted code block
