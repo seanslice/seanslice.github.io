@@ -4,7 +4,7 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 
 ## Some Papers
 
-1. [Laureline Logiaco, Larry Abbott, Sean Escola, "Thalamic control of cortical dynamics in a model of flexible motor sequencing", Cell Reports, 2021](https://doi.org/10.1101/2019.12.17.880153)
+1. [Laureline Logiaco, Larry Abbott, Sean Escola, "Thalamic control of cortical dynamics in a model of flexible motor sequencing", Cell Reports, 2021](https://doi.org/10.1016/j.celrep.2021.109090)
 2. [James Murray, Sean Escola, "Remembrance of things practiced with fast and slow learning in cortical and subcortical pathways", Nature Communication, 2020](https://doi.org/10.1038/s41467-020-19788-5)
 3. [Kevan Shah, Rishi Bedi, Alex Rogozhnikov, Pavan Ramkumar, Zhixiang Tong, Brian Rash, Morgan Stanton, Jordan Sorokin, ..., Gaia Skibinski, Saul Kato, Sean Escola, "Optimization and scaling of patient-derived brain organoids uncovers deep phenotypes of disease", bioRxiv, 2020](https://doi.org/10.1101/2020.08.26.251611)
 4. [Brian DePasquale, Christopher Cueva, Kanaka Rajan, Sean Escola, Larry Abbott, "full-FORCE: A target-based method for training recurrent networks", PLoS ONE, 2018](https://doi.org/10.1371/journal.pone.0191527)
