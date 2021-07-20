@@ -12,7 +12,7 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 
 ## How do humans and other animals generate sequences of behaviors?
 
-To investigate this, we have developed a model of motor cortex, the basal ganglia, and thalamus which has offered insights into the computational roles that each of these structures play in sequence generation. Specifically, we show that the activation and inactivation of different cortical-thalamic loops by the basal ganglia can control the dynamics of motor cortical activity in order to produce multiple behavioral outputs when the projection to the spinal cord is fixed. This is a novel hypothesis for the role of the neuroanatomy in motor computation.![image](https://user-images.githubusercontent.com/5702199/126403208-dd2a8cd5-3aea-46af-8e76-18aab868109a.png)
+To investigate this, we have developed a model of motor cortex, the basal ganglia, and thalamus which has offered insights into the computational roles that each of these structures play in sequence generation. Specifically, we show that the activation and inactivation of different cortical-thalamic loops by the basal ganglia can control the dynamics of motor cortical activity in order to produce multiple behavioral outputs when the projection to the spinal cord is fixed. This is a novel hypothesis for the role of the neuroanatomy in motor computation.
 
 1. [Laureline Logiaco, Larry Abbott, Sean Escola, "Thalamic control of cortical dynamics in a model of flexible motor sequencing", Cell Reports, 2021](https://doi.org/10.1016/j.celrep.2021.109090)
 2. [Laureline Logiaco, Sean Escola, "Thalamocortical motor circuit insights for more robust hierarchical control of complex sequences", arXiv, 2020](https://arxiv.org/abs/2006.13332)
@@ -32,8 +32,8 @@ In collaboration with Dr. Bence Ölveczky’s lab at Harvard, we have been build
 
 Historically, neural recordings are analyzed by aligning data to experimentally known times (e.g., stimulus onset, movement onset, etc.). However, given that motivational and attentional features are not clearly accessible behaviorally, and that computations may have variable durations from trial to trial, it is possible that there exist multiple internally relevant times that strongly influence neural responses. We seek to develop tools to infer these internally relevant times and thus potentially provide more complete characterizations of neural responses.
 
-9. [Sean Escola, Alfredo Fontanini, Don Katz, Liam Paninski, "Hidden Markov Models for the Stimulus-Response Relationships of Multistate Neural Systems", Neural Computation, 2011](https://doi.org/10.1162/NECO_a_00118)
-10. [Sean Escola, Michael Eisele, Kenneth Miller, Liam Paninski, "Maximally Reliable Markov Chains Under Energy Constraints", Neural Computation, 2009](https://doi.org/10.1162/neco.2009.08-08-843)
+1. [Sean Escola, Alfredo Fontanini, Don Katz, Liam Paninski, "Hidden Markov Models for the Stimulus-Response Relationships of Multistate Neural Systems", Neural Computation, 2011](https://doi.org/10.1162/NECO_a_00118)
+2. [Sean Escola, Michael Eisele, Kenneth Miller, Liam Paninski, "Maximally Reliable Markov Chains Under Energy Constraints", Neural Computation, 2009](https://doi.org/10.1162/neco.2009.08-08-843)
 
 ## Can we reach outside of the doors of academia for a potentially broader societal benefit? 
 
@@ -42,7 +42,7 @@ I have recently been involved in the founding and development of two external or
 1. [Alex Rogozhnikov, Pavan Ramkumar, Rishi Bedi, Saul Kato, Sean Escola, "Hierarchical confounder discovery in the experiment–machine learning cycle", bioRxiv, 2021](https://doi.org/10.1101/2021.05.11.443616)
 2. [Alex Rogozhnikov, Pavan Ramkumar, Kevan Shah, Rishi Bedi, Saul Kato, Sean Escola, "Demuxalot: scaled up genetic demultiplexing for single-cell sequencing", bioRxiv, 2021](https://doi.org/10.1101/2021.05.22.443646)
 3. [Tara van Viegen, Athena Akrami, Kate Bonnen, Eric DeWitt, Alexandre Hyafil, Helena Ledmyr, Grace W Lindsay, ..., Sean Escola, Megan AK Peters, "Neuromatch Academy: Teaching Computational Neuroscience with Global Accessibility", Trends in Cognitive Sciences, 2021](https://doi.org/10.1016/j.tics.2021.03.018)
-5. [Kevan Shah, Rishi Bedi, Alex Rogozhnikov, Pavan Ramkumar, Zhixiang Tong, Brian Rash, Morgan Stanton, Jordan Sorokin, ..., Gaia Skibinski, Saul Kato, Sean Escola, "Optimization and scaling of patient-derived brain organoids uncovers deep phenotypes of disease", bioRxiv, 2020](https://doi.org/10.1101/2020.08.26.251611)
+4. [Kevan Shah, Rishi Bedi, Alex Rogozhnikov, Pavan Ramkumar, Zhixiang Tong, Brian Rash, Morgan Stanton, Jordan Sorokin, ..., Gaia Skibinski, Saul Kato, Sean Escola, "Optimization and scaling of patient-derived brain organoids uncovers deep phenotypes of disease", bioRxiv, 2020](https://doi.org/10.1101/2020.08.26.251611)
 
 ## Other publications
 
