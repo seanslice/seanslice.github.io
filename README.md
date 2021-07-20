@@ -5,7 +5,7 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 # Current and former lab members
 
 [James Murray](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L8zuRf0AAAAJ&sortby=pubdate) (postdoc, [now assistant professor at the University of Oregon](https://murraylab.uoregon.edu/))  
-[Laureline Logiaco](https://ctn.zuckermaninstitute.columbia.edu/people/laureline-logiaco) (postdoc)
+[Laureline Logiaco](https://ctn.zuckermaninstitute.columbia.edu/people/laureline-logiaco) (postdoc)  
 [Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (postdoc with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/)]
 
 # Research
