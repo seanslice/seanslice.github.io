@@ -2,6 +2,15 @@
 
 I am an assistant professor of psychiatry in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu). I also am co-founder of [Herophilus](https://www.herophilus.com), a drug discovery company, and [Neuromatch](https://neuromatch.io/), an online neuroscience community.
 
+## Research
+
+
+
+## Current and former lab members
+
+James Murray (postdoc, [now assistant professor at the University of Oregon](https://murraylab.uoregon.edu/))
+Laureline Logiaco (postdoc)
+
 ## Some Papers
 
 1. [Laureline Logiaco, Larry Abbott, Sean Escola, "Thalamic control of cortical dynamics in a model of flexible motor sequencing", Cell Reports, 2021](https://doi.org/10.1016/j.celrep.2021.109090)
@@ -16,6 +25,6 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 9. [Sean Escola, Alfredo Fontanini, Don Katz, Liam Paninski, "Hidden Markov Models for the Stimulus-Response Relationships of Multistate Neural Systems", Neural Computation, 2011](https://doi.org/10.1162/NECO_a_00118)
 10. [Sean Escola, Michael Eisele, Kenneth Miller, Liam Paninski, "Maximally Reliable Markov Chains Under Energy Constraints", Neural Computation, 2009](https://doi.org/10.1162/neco.2009.08-08-843)
 
-For a more complete list, visit my [Google Scholar Profile](https://scholar.google.com/citations?user=0kkWrRoAAAAJ)
+For a complete list, visit my [Google Scholar Profile](https://scholar.google.com/citations?user=0kkWrRoAAAAJ)
 
 [//]: # " ![Image](src) "
