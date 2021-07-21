@@ -1,11 +1,12 @@
-# G. Sean Escola, M.D., Ph.D.
+# Escola Lab
 
-![Montenegro](4EB7C498-6D06-44E9-B00E-32113458E3EE_1_105_c.jpeg)
+![Sean in Montenegro](4EB7C498-6D06-44E9-B00E-32113458E3EE_1_105_c.jpeg)
 
 I am an assistant professor of psychiatry in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu). I also am co-founder of [Herophilus](https://www.herophilus.com), a drug discovery company, and [Neuromatch](https://neuromatch.io/), an online neuroscience community.
 
 # Current and former lab members
 
+[Sean Escola](https://scholar.google.com/citations?user=0kkWrRoAAAAJ) (PI)    
 [James Murray](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L8zuRf0AAAAJ&sortby=pubdate) (postdoc, [now assistant professor at the University of Oregon](https://murraylab.uoregon.edu/))  
 [Laureline Logiaco](https://ctn.zuckermaninstitute.columbia.edu/people/laureline-logiaco) (postdoc)  
 [Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (joint postdoc with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))
@@ -25,7 +26,7 @@ We are applying biologically constrained learning rules to the thalamo-cortical 
 
 ## How is control of behavior transferred from motor cortex to subcortical circuits over the course of learning complex behaviors?
 
-In collaboration with Dr. Bence Ölveczky’s lab at Harvard, we have been building models to understand the result that motor cortex is necessary for the learning but not for the execution of complex behavior, while thalamus and striatum are necessary for both learning and execution. We have shown that if the connections between cortex and striatum learn relatively quickly using a supervised or reinforcement learning rule, while those between thalamus and striatum learn relatively slowly using a simple Hebbian learning rule, then the thalamic inputs to striatum will learn to mimic the cortical inputs during repetition of the same behavior. This results in transfer of control from cortex to thalamus. Recently, Dr. Ölveczky and colleagues have shown that when animals learn multiple similar complex behaviors, transfer of control from motor cortex to thalamus is no longer successful. Our current modeling efforts are directed at understanding how thalamic and cortical representation differ such that interference between behaviors can prevent successful thalamic control without cortical input.
+In collaboration with [Dr. Bence Ölveczky’s](https://olveczkylab.oeb.harvard.edu/) lab at Harvard, we have been building models to understand the result that motor cortex is necessary for the learning but not for the execution of complex behavior, while thalamus and striatum are necessary for both learning and execution. We have shown that if the connections between cortex and striatum learn relatively quickly using a supervised or reinforcement learning rule, while those between thalamus and striatum learn relatively slowly using a simple Hebbian learning rule, then the thalamic inputs to striatum will learn to mimic the cortical inputs during repetition of the same behavior. This results in transfer of control from cortex to thalamus. Recently, Dr. Ölveczky and colleagues have shown that when animals learn multiple similar complex behaviors, transfer of control from motor cortex to thalamus is no longer successful. Our current modeling efforts are directed at understanding how thalamic and cortical representation differ such that interference between behaviors can prevent successful thalamic control without cortical input.
 
 1. [James Murray, Sean Escola, "Remembrance of things practiced with fast and slow learning in cortical and subcortical pathways", Nature Communication, 2020](https://doi.org/10.1038/s41467-020-19788-5)
 2. [James Murray, Sean Escola, "Learning multiple variable-speed sequences in striatum via cortical tutoring", eLife, 2017](https://doi.org/10.7554/eLife.26084)
