@@ -13,7 +13,7 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 
 # Now hiring postdocs!
 
-There are up to two new postdoc positions in the lab. Postdocs are funded for two years with an expectation of continued funding assuming research progress. In addition to working with me, postdocs will be part of the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) and free to work with other faculty in the Center. [Email me](mailto:gse3@columbia.edu) for more information.
+There are two new postdoc positions in the lab. Postdocs are funded for two years with an expectation of continued funding assuming research progress. In addition to working with me, postdocs will be part of the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) and free to work with other faculty in the Center. [Email me](mailto:gse3@columbia.edu) for more information.
 
 # Research
 
