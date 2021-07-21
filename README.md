@@ -1,5 +1,7 @@
 # G. Sean Escola, M.D., Ph.D.
 
+!![What is this](.png)
+
 I am an assistant professor of psychiatry in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu). I also am co-founder of [Herophilus](https://www.herophilus.com), a drug discovery company, and [Neuromatch](https://neuromatch.io/), an online neuroscience community.
 
 # Current and former lab members
