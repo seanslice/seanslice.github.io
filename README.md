@@ -11,6 +11,10 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 [Laureline Logiaco](https://ctn.zuckermaninstitute.columbia.edu/people/laureline-logiaco) (postdoc)  
 [Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (joint postdoc with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))
 
+# Now hiring postdocs!
+
+There are up to two new postdoc positions in the lab. Postdocs are funded for two years with an expectation of continued funding assuming research progress. In addition to working with me, postdocs will be part of the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) and free to work with other faculty in the Center. [Email me](mailto:gse3@columbia.edu) for more information.
+
 # Research
 
 ## How do humans and other animals generate sequences of behaviors?
