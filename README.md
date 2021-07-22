@@ -9,7 +9,7 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 [Sean Escola](https://scholar.google.com/citations?user=0kkWrRoAAAAJ) (PI)    
 [James Murray](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L8zuRf0AAAAJ&sortby=pubdate) (postdoc, [now assistant professor at the University of Oregon](https://murraylab.uoregon.edu/))  
 [Laureline Logiaco](https://ctn.zuckermaninstitute.columbia.edu/people/laureline-logiaco) (postdoc)  
-[Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)
+[Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
 [Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (joint postdoc with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))
 
 # Now hiring postdocs!
