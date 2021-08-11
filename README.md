@@ -7,7 +7,7 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 # Current and former lab members
 
 [Sean Escola](https://scholar.google.com/citations?user=0kkWrRoAAAAJ) (PI)    
-[James Murray](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L8zuRf0AAAAJ&sortby=pubdate) (postdoc, [now assistant professor at the University of Oregon](https://murraylab.uoregon.edu/))  
+[James Murray](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L8zuRf0AAAAJ&sortby=pubdate) (former postdoc, [now assistant professor at the University of Oregon](https://murraylab.uoregon.edu/))  
 [Laureline Logiaco](https://ctn.zuckermaninstitute.columbia.edu/people/laureline-logiaco) (postdoc)  
 [Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
 [Andrew Chen](https://www.columbiapsychiatry.org/education-and-training/psychiatry-residency/current-residents) (postdoc and resident in psychiatry)  
