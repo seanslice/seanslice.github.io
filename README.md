@@ -11,8 +11,8 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 [Laureline Logiaco](https://ctn.zuckermaninstitute.columbia.edu/people/laureline-logiaco) (postdoc)  
 [Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
 [Andrew Chen](https://www.columbiapsychiatry.org/education-and-training/psychiatry-residency/current-residents) (postdoc and resident in psychiatry)  
-[Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (joint postdoc with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))
-[Jack Lindsey](https://ctn.zuckermaninstitute.columbia.edu/people/john-william-lindsey) (joint graduate student with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))
+[Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (joint postdoc with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))  
+[Jack Lindsey](https://ctn.zuckermaninstitute.columbia.edu/people/john-william-lindsey) (joint graduate student with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))  
 [Francisco Salema Oom de Sacadura](https://www.neurosciencephd.columbia.edu/salema-oom-de-sacadura) (rotation student)
 
 # Now hiring postdocs!
