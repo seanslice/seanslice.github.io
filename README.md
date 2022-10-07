@@ -11,7 +11,7 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 [Laureline Logiaco](https://ctn.zuckermaninstitute.columbia.edu/people/laureline-logiaco) (postdoc)  
 [Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
 [Andrew Chen](https://www.columbiapsychiatry.org/education-and-training/psychiatry-residency/current-residents) (postdoc and resident in psychiatry)  
-[Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (joint postdoc with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))  
+[Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (postdoc)  
 [Jack Lindsey](https://ctn.zuckermaninstitute.columbia.edu/people/john-william-lindsey) (joint graduate student with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))  
 [Francisco Salema Oom de Sacadura](https://www.neurosciencephd.columbia.edu/salema-oom-de-sacadura) (rotation student)
 
@@ -31,6 +31,8 @@ To investigate this, we have developed a model of motor cortex, the basal gangli
 ## How are cortico-thalamic loops learnt to generate specific behaviors when cortical and readout weights are fixed?
 
 We are applying biologically constrained learning rules to the thalamo-cortical weights while constraining intracortical, readout, and cortico-thalamic weights to be fixed. We show that learning is much more successful when cortico-thalamic weights match the readout, a testable hypothesis. Furthermore, when we restrict the readout as arising from a subpopulation of the cortical network (analogous to cortical layers 5 and 6 in vivo), we find that learning at synapses between thalamus and the non-readout projecting cortical units is no longer possible unless the intracortical connectivity obeys a specific structure. This work unifies neuroanatomy, biological learning, and computational goals to make specific predictions about motor system synaptic weight structures.
+
+1. [Kaushik Lakshminarasimhan, Marjorie Xie, Jeremy Cohen, Britton Sauerbrei, Adam Hantman, Ashok Litwin-Kumar, Sean Escola, "Specific connectivity optimizes learning in thalamocortical loops", bioRxiv, 2022](https://doi.org/10.1101/2022.09.27.509618)
 
 ## How is control of behavior transferred from motor cortex to subcortical circuits over the course of learning complex behaviors?
 
