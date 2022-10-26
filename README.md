@@ -28,7 +28,7 @@ To investigate this, we have developed a model of motor cortex, the basal gangli
 1. [Laureline Logiaco, Larry Abbott, Sean Escola, "Thalamic control of cortical dynamics in a model of flexible motor sequencing", Cell Reports, 2021](https://doi.org/10.1016/j.celrep.2021.109090)
 2. [Laureline Logiaco, Sean Escola, "Thalamocortical motor circuit insights for more robust hierarchical control of complex sequences", arXiv, 2020](https://arxiv.org/abs/2006.13332)
 
-## How are cortico-thalamic loops learnt to generate specific behaviors when cortical and readout weights are fixed?
+## How does the motor system contend with the contraints place upon by biologically realistic learning?
 
 We are applying biologically constrained learning rules to the thalamo-cortical weights while constraining intracortical, readout, and cortico-thalamic weights to be fixed. We show that learning is much more successful when cortico-thalamic weights match the readout, a testable hypothesis. Furthermore, when we restrict the readout as arising from a subpopulation of the cortical network (analogous to cortical layers 5 and 6 in vivo), we find that learning at synapses between thalamus and the non-readout projecting cortical units is no longer possible unless the intracortical connectivity obeys a specific structure. This work unifies neuroanatomy, biological learning, and computational goals to make specific predictions about motor system synaptic weight structures.
 
@@ -41,6 +41,14 @@ In collaboration with [Dr. Bence Ölveczky’s](https://olveczkylab.oeb.harvard.
 1. [Kevin Mizes, Jack Lindsey, Sean Escola, Bence Ölveczky, "Similar striatal activity exerts different control over automatic and flexible motor sequences", bioRxiv, 2021](https://doi.org/10.1101/2022.06.13.495989)
 2. [James Murray, Sean Escola, "Remembrance of things practiced with fast and slow learning in cortical and subcortical pathways", Nature Communication, 2020](https://doi.org/10.1038/s41467-020-19788-5)
 3. [James Murray, Sean Escola, "Learning multiple variable-speed sequences in striatum via cortical tutoring", eLife, 2017](https://doi.org/10.7554/eLife.26084)
+
+## How can neuroscience and AI inform each other?
+
+Historically, neuroscience has played a large influence on the development of AI, mostly famously by inspiring the core architectures of the neural networks that underpin the ongoing machine learning revolution. We believe that there is much more that biologically intelligent systems can teach AI and that a path towards elicidating this is through the development of virutal embodied agents that are trained to accurately recapitulate the detailed behaviors of _in vivo_ animals. This line of thinking is well captured by a 1988 quote from AI pioneer Hans Moravec, who said that abstract thought "is a new trick, perhaps less than 100 thousand years old...effective only because it is supported by this much older and much more powerful, though usually unconscious, sensorimotor knowledge." To this end, we are developing a platform for virtual rodent neuroscience that will allow us to carefully and exhaustively probe the mechanisms by which animal brains produce ethologically adaptive behaviors.
+
+Moreover, this platform also serves to advance basic questions in neuroscience by allowing for virtual experiments to be performed that can compliment ones in the lab. A cycle of virtual neuroscience predictions, experimental testing, and updated models can ultimately result in a robust testbed in which high fidelity experiments can be conducted at scale to vastly accelerate the pace of neuroscience research. 
+
+1. [Anthony Zador, Blake Richards, Bence Ölveczky, Sean Escola, Yoshua Bengio, Kwabena Boahen, Matthew Botvinick, Dmitri Chklovskii, Anne Churchland, Claudia Clopath, James DiCarlo, Surya Ganguli, Jeff Hawkins, Konrad Koerding, Alexei Koulakov, Yann LeCun, Timothy Lillicrap, Adam Marblestone, Bruno Olshausen, Alexandre Pouget, Cristina Savin, Terrence Sejnowski, Eero Simoncelli, Sara Solla, David Sussillo, Andreas S. Tolias, Doris Tsao, "Toward Next-Generation Artificial Intelligence: Catalyzing the NeuroAI Revolution", arXiv, 2022](https://doi.org/10.48550/arXiv.2210.08340)
 
 ## Can switching between brain states with different state-specific computational modes be detected in large-scale neural recording data in the absence of experimentally observable external cues?
 
