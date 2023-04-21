@@ -4,16 +4,21 @@
 
 I am an assistant professor of psychiatry in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu). I also am co-founder of [Herophilus](https://www.herophilus.com), a drug discovery company, and [Neuromatch](https://neuromatch.io/), an online neuroscience community.
 
-# Current and former lab members
+# Current lab members
 
 [Sean Escola](https://scholar.google.com/citations?user=0kkWrRoAAAAJ) (PI)    
-[James Murray](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=L8zuRf0AAAAJ&sortby=pubdate) (former postdoc, [now assistant professor at the University of Oregon](https://murraylab.uoregon.edu/))  
-[Laureline Logiaco](https://ctn.zuckermaninstitute.columbia.edu/people/laureline-logiaco) (postdoc)  
-[Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
 [Andrew Chen](https://www.columbiapsychiatry.org/education-and-training/psychiatry-residency/current-residents) (postdoc and resident in psychiatry)  
 [Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (postdoc)  
 [Jack Lindsey](https://ctn.zuckermaninstitute.columbia.edu/people/john-william-lindsey) (joint graduate student with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))  
-[Francisco Salema Oom de Sacadura](https://www.neurosciencephd.columbia.edu/salema-oom-de-sacadura) (rotation student)
+[Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
+[Yuriy Shymkiv](https://www.linkedin.com/in/yuriy-shymkiv-a038215a/) (postdoc)
+[Thia Steinhardt](https://www.simonsfoundation.org/people/cynthia-steinhardt/) (postdoc)
+
+# Former lab memebers
+
+[James Murray](https://murraylab.uoregon.edu/) (former postdoc, now assistant professor at the University of Oregon)  
+[Laureline Logiaco](https://fietelab.mit.edu/people/) (former postdoc, now a postdoc at MIT in Ila Fiete's lab)  
+[Francisco Salema Oom de Sacadura](https://www.neurosciencephd.columbia.edu/salema-oom-de-sacadura) (former rotation student, now a graduate student at Columbia in Mark Churchland's lab)
 
 # Now hiring postdocs!
 
