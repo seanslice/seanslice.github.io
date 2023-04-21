@@ -11,7 +11,7 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 [Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (postdoc)  
 [Jack Lindsey](https://ctn.zuckermaninstitute.columbia.edu/people/john-william-lindsey) (joint graduate student with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))  
 [Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
-[Yuriy Shymkiv](https://www.linkedin.com/in/yuriy-shymkiv-a038215a/) (postdoc)
+[Yuriy Shymkiv](https://www.linkedin.com/in/yuriy-shymkiv-a038215a/) (postdoc)  
 [Thia Steinhardt](https://www.simonsfoundation.org/people/cynthia-steinhardt/) (postdoc)
 
 # Former lab memebers
