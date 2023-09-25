@@ -7,18 +7,17 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 # Current lab members
 
 [Sean Escola](https://scholar.google.com/citations?user=0kkWrRoAAAAJ) (PI)    
+[Manueal Beiran Amigo](https://ctn.zuckermaninstitute.columbia.edu/people/manuel-beiran) (postdoc)  
 [Andrew Chen](https://www.columbiapsychiatry.org/education-and-training/psychiatry-residency/current-residents) (postdoc and resident in psychiatry)  
 [Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (postdoc)  
 [Jack Lindsey](https://ctn.zuckermaninstitute.columbia.edu/people/john-william-lindsey) (joint graduate student with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))  
 [Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
 [Yuriy Shymkiv](https://www.linkedin.com/in/yuriy-shymkiv-a038215a/) (postdoc)  
-[Thia Steinhardt](https://www.simonsfoundation.org/people/cynthia-steinhardt/) (postdoc)
 
 # Former lab memebers
 
 [James Murray](https://murraylab.uoregon.edu/) (former postdoc, now assistant professor at the University of Oregon)  
 [Laureline Logiaco](https://fietelab.mit.edu/people/) (former postdoc, now a postdoc at MIT in Ila Fiete's lab)  
-[Francisco Salema Oom de Sacadura](https://www.neurosciencephd.columbia.edu/salema-oom-de-sacadura) (former rotation student, now a graduate student at Columbia in Mark Churchland's lab)
 
 # Now hiring postdocs!
 
@@ -43,9 +42,10 @@ We are applying biologically constrained learning rules to the thalamo-cortical 
 
 In collaboration with [Dr. Bence Ölveczky’s](https://olveczkylab.oeb.harvard.edu/) lab at Harvard, we have been building models to understand the result that motor cortex is necessary for the learning but not for the execution of complex behavior, while thalamus and striatum are necessary for both learning and execution. We have shown that if the connections between cortex and striatum learn relatively quickly using a supervised or reinforcement learning rule, while those between thalamus and striatum learn relatively slowly using a simple Hebbian learning rule, then the thalamic inputs to striatum will learn to mimic the cortical inputs during repetition of the same behavior. This results in transfer of control from cortex to thalamus. Recently, Dr. Ölveczky and colleagues have shown that when animals learn multiple similar complex behaviors, transfer of control from motor cortex to thalamus is no longer successful. Our current modeling efforts show that there is an intrinsic tradeoff in motor learning between flexibility and robustness and that interference of control transfer occurs when, for a given task, flexibility is prioritied.
 
-1. [Kevin Mizes, Jack Lindsey, Sean Escola, Bence Ölveczky, "Similar striatal activity exerts different control over automatic and flexible motor sequences", bioRxiv, 2021](https://doi.org/10.1101/2022.06.13.495989)
-2. [James Murray, Sean Escola, "Remembrance of things practiced with fast and slow learning in cortical and subcortical pathways", Nature Communication, 2020](https://doi.org/10.1038/s41467-020-19788-5)
-3. [James Murray, Sean Escola, "Learning multiple variable-speed sequences in striatum via cortical tutoring", eLife, 2017](https://doi.org/10.7554/eLife.26084)
+1. [Kevin Mizes, Jack Lindsey, Sean Escola, Bence Ölveczky, "Motor cortex is required for flexible but not automatic motor sequences", bioRxiv, 2023](https://doi.org/10.1101/2023.09.05.556348)
+2. [Kevin Mizes, Jack Lindsey, Sean Escola, Bence Ölveczky, "Dissociating the contributions of sensorimotor striatum to automatic and visually guided motor sequences", Nature Neuroscience, 2023](https://doi.org/10.1038/s41593-023-01431-3)
+3. [James Murray, Sean Escola, "Remembrance of things practiced with fast and slow learning in cortical and subcortical pathways", Nature Communication, 2020](https://doi.org/10.1038/s41467-020-19788-5)
+4. [James Murray, Sean Escola, "Learning multiple variable-speed sequences in striatum via cortical tutoring", eLife, 2017](https://doi.org/10.7554/eLife.26084)
 
 ## How can neuroscience and AI inform each other?
 
