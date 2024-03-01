@@ -13,7 +13,7 @@ I am an assistant professor of psychiatry at [Columbia University](https://www.c
 [Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
 [Yuriy Shymkiv](https://www.linkedin.com/in/yuriy-shymkiv-a038215a/) (postdoc)  
 
-# Former lab memebers
+# Former lab members
 
 [James Murray](https://murraylab.uoregon.edu/) (former postdoc, now assistant professor at the University of Oregon)  
 [Laureline Logiaco](https://fietelab.mit.edu/people/) (former postdoc, now a postdoc at MIT in Ila Fiete's lab)  
