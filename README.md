@@ -2,7 +2,7 @@
 
 ![Sean Escola](systemone_1_19_18-49_lo_res.jpg)
 
-I am an assistant professor of psychiatry in the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at [Columbia University](https://www.columbia.edu). I also am co-founder of [Herophilus](https://www.herophilus.com), a drug discovery company, and [Neuromatch](https://neuromatch.io/), an online neuroscience community.
+I am an assistant professor of psychiatry at [Columbia University](https://www.columbia.edu) who studies computational neuroscience. I also am co-founder of: [Fauna Robotics](https://www.linkedin.com/company/fauna-robotics/), a consumer-facing embodied AI company; [Herophilus](https://www.herophilus.com), a drug discovery company; and [Neuromatch](https://neuromatch.io/), an online neuroscience research and education community.
 
 # Current lab members
 
@@ -10,7 +10,6 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 [Manueal Beiran Amigo](https://ctn.zuckermaninstitute.columbia.edu/people/manuel-beiran) (postdoc)  
 [Andrew Chen](https://www.columbiapsychiatry.org/education-and-training/psychiatry-residency/current-residents) (postdoc and resident in psychiatry)  
 [Kaushik Lakshminarasimhan](https://ctn.zuckermaninstitute.columbia.edu/people/kaushik-lakshminarasimhan) (postdoc)  
-[Jack Lindsey](https://ctn.zuckermaninstitute.columbia.edu/people/john-william-lindsey) (joint graduate student with [Ashok Litwin-Kumar](http://lk.zuckermaninstitute.columbia.edu/))  
 [Salomon Muller](https://ctn.zuckermaninstitute.columbia.edu/people/salomon-zev-muller) (postdoc)  
 [Yuriy Shymkiv](https://www.linkedin.com/in/yuriy-shymkiv-a038215a/) (postdoc)  
 
@@ -18,10 +17,7 @@ I am an assistant professor of psychiatry in the [Center for Theoretical Neurosc
 
 [James Murray](https://murraylab.uoregon.edu/) (former postdoc, now assistant professor at the University of Oregon)  
 [Laureline Logiaco](https://fietelab.mit.edu/people/) (former postdoc, now a postdoc at MIT in Ila Fiete's lab)  
-
-# Now hiring postdocs!
-
-There are two new postdoc positions in the lab. Postdocs are funded for two years with an expectation of continued funding assuming research progress. In addition to working with me, postdocs will be part of the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) and free to work with other faculty in the Center. [Email me](mailto:gse3@columbia.edu) for more information.
+[Jack Lindsey](https://ctn.zuckermaninstitute.columbia.edu/people/john-william-lindsey) (now at Anthropic)  
 
 # Research
 
